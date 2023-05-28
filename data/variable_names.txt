@@ -3,12 +3,9 @@ Air Temperature,temp
 Apparent Temperature,feels_like
 Air Pressure,pressure
 Humidity,humidity
-Wind speed,wind.speed
-Wind Direction,wind.deg
 Clouds,clouds.all
 Rain,rain.1h
 Snow,snow.1h
-Air Quality Index,aqi
 CO,co
 NO,no
 NO2,no2
